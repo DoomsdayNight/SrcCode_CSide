@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace NKM
+{
+	// Token: 0x02000478 RID: 1144
+	public enum NKM_TACTICAL_COMBO_TYPE
+	{
+		// Token: 0x04001FA0 RID: 8096
+		NTCBT_INVALID,
+		// Token: 0x04001FA1 RID: 8097
+		NTCBT_UNIT_ROLE_TYPE,
+		// Token: 0x04001FA2 RID: 8098
+		NTCBT_UNIT_STYLE_TYPE,
+		// Token: 0x04001FA3 RID: 8099
+		NTCBT_RESPAWN_COST,
+		// Token: 0x04001FA4 RID: 8100
+		NTCBT_UNIT_STR_ID
+	}
+}
