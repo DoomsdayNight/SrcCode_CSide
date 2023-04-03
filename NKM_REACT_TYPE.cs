@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace NKM
+{
+	// Token: 0x020003CC RID: 972
+	public enum NKM_REACT_TYPE
+	{
+		// Token: 0x04001265 RID: 4709
+		NRT_INVALID,
+		// Token: 0x04001266 RID: 4710
+		NRT_NO,
+		// Token: 0x04001267 RID: 4711
+		NRT_NO_ACTION,
+		// Token: 0x04001268 RID: 4712
+		NRT_REVENGE,
+		// Token: 0x04001269 RID: 4713
+		NRT_DAMAGE_CATCH,
+		// Token: 0x0400126A RID: 4714
+		NRT_DAMAGE_A,
+		// Token: 0x0400126B RID: 4715
+		NRT_DAMAGE_B,
+		// Token: 0x0400126C RID: 4716
+		NRT_DAMAGE_DOWN,
+		// Token: 0x0400126D RID: 4717
+		NRT_DAMAGE_UP,
+		// Token: 0x0400126E RID: 4718
+		NRT_DAMAGE_FLY,
+		// Token: 0x0400126F RID: 4719
+		NRT_INVINCIBLE
+	}
+}
