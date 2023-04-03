@@ -1,0 +1,13 @@
+﻿using System;
+
+namespace NKC
+{
+	// Token: 0x0200067C RID: 1660
+	public enum NKC_OPEN_POPUP_TYPE_AFTER_PAUSE
+	{
+		// Token: 0x04003302 RID: 13058
+		NOPTAP_GAME_OPTION_POPUP,
+		// Token: 0x04003303 RID: 13059
+		NOPTATP_REPEAT_OPERATION_POPUP
+	}
+}

@@ -1,0 +1,17 @@
+﻿using System;
+
+namespace NKC
+{
+	// Token: 0x020006A5 RID: 1701
+	public enum NKC_EVENT_MESSAGE
+	{
+		// Token: 0x0400349E RID: 13470
+		NEM_INVALID,
+		// Token: 0x0400349F RID: 13471
+		NEM_NKCPACKET_SEND_TO_SERVER,
+		// Token: 0x040034A0 RID: 13472
+		NEM_NKCPACKET_SEND_TO_CLIENT,
+		// Token: 0x040034A1 RID: 13473
+		NEM_UI_GAME_QUIT
+	}
+}
