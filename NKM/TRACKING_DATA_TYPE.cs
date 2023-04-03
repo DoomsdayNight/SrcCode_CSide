@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace NKM
+{
+	// Token: 0x0200047D RID: 1149
+	public enum TRACKING_DATA_TYPE
+	{
+		// Token: 0x04001FC3 RID: 8131
+		TDT_INVALID,
+		// Token: 0x04001FC4 RID: 8132
+		TDT_NORMAL,
+		// Token: 0x04001FC5 RID: 8133
+		TDT_FASTER,
+		// Token: 0x04001FC6 RID: 8134
+		TDT_SLOWER,
+		// Token: 0x04001FC7 RID: 8135
+		TDT_SIN,
+		// Token: 0x04001FC8 RID: 8136
+		TDT_SIN_PLUS,
+		// Token: 0x04001FC9 RID: 8137
+		TDT_SIN_PLUS_FAST,
+		// Token: 0x04001FCA RID: 8138
+		TDT_SIN_PLUS_FAST2,
+		// Token: 0x04001FCB RID: 8139
+		TDT_SIN_PLUS_FAST4,
+		// Token: 0x04001FCC RID: 8140
+		TDT_BACK_OUT,
+		// Token: 0x04001FCD RID: 8141
+		TDT_BOUNCE_OUT
+	}
+}
